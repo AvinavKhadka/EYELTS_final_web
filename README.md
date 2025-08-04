@@ -1,55 +1,39 @@
 # EYELTS
 
-EYELTS is a simple, easy-to-use website created to help learners prepare for the IELTS exam. It focuses on the four key skills — Reading, Writing, Speaking, and Listening — offering practice tests, useful tips, and vocabulary flashcards to support your study journey.
+EYELTS is a free, frontend-only website designed to help you prep for the IELTS exam in a simple and straightforward way. It covers all four core sections — Reading, Writing, Speaking, and Listening — with plenty of practice and tips, all right in your browser.
 
 ---
 
-## Features
+### What’s Inside?
 
-- Practice tests for both general and academic IELTS, complete with instant scoring and feedback.
-- Exam tips and tricks to help you tackle each section more confidently.
-- Vocabulary flashcards organized by difficulty to expand your word power.
-- Clear and intuitive navigation for a smooth user experience.
+- **General and Academic Practice**: Practice tests and exercises for each IELTS section, complete with scores and feedback to track your improvement.
 
----
+- **Tips & Tricks**: Handy exam-oriented tips across all four sections to help you tackle the test smarter.
 
-## About the Project
+- **Resources**: A curated list of universities grouped by country that accept IELTS scores, along with their minimum score requirements — perfect if you’re planning where to apply.
 
-This project started as a hackathon idea and is still a work in progress. While it doesn’t have a backend yet, all the content is included on the frontend, so you can use it anytime, anywhere without needing a server.
+- **Vocabulary Practice**:
+  - Flashcards sorted by topic to boost your vocabulary efficiently.
+  - General flashcard practice for random vocab review.
 
----
+- **One-Click Test**: Just hit the “Take a Test” button and jump into a randomized combination of reading, writing, speaking, and listening tests — no need to do each section individually.
 
-## Project Structure
-
-The app is built with React and TypeScript. The main code lives in the `src` folder, organized into components, data files, context, and hooks for clean and maintainable code.
+- **Progress Tracking**: Visual progress bars show how you’re doing in each of the four main test areas.
 
 ---
 
-## Technologies Used
+### How to Use
 
-- React + TypeScript  
-- Vite (build tool)  
-- Tailwind CSS (styling)
+Simply clone the repo, run the project locally, or check out the live site [here](https://avinavkhadka.github.io/EYELTS_final_web/).
 
----
-
-## How to Use
-
-Navigate through the different sections to practice and review IELTS materials. Use the flashcards to improve vocabulary, and check out the tips to learn exam strategies.
+Since it’s a static frontend, no backend or signup is needed — just dive right in!
 
 ---
 
-## Live Demo
+### Why EYELTS?
 
-Check out the live website here:  
-[https://AvinavKhadka.github.io/EYELTS_final_web/](https://AvinavKhadka.github.io/EYELTS_final_web/)
-
----
-
-## License
-
-EYELTS is open source and free to use.
+Built originally as a hackathon project, EYELTS aims to make IELTS prep accessible without the hassle of complicated setups or paid services. It’s a work in progress, but it already packs a punch for self-learners looking for straightforward practice and resources.
 
 ---
 
-Thanks for checking out EYELTS! Hope it helps you get closer to your IELTS goals.
+Feel free to explore the code or contribute if you want to help it grow!
